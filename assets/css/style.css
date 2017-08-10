@@ -1,0 +1,31 @@
+		body {
+            background-image: url(https://raw.githubusercontent.com/robrollner/week-4-game/master/assets/images/background-image.jpg);
+        }
+
+        #Header {
+            background-color: #cfe2e7;
+        }
+
+        #instructions {
+            background-color: #eea99b;
+        }
+
+        #cpuRandomNumber {
+
+        }
+
+        #winLoss {
+
+        }
+
+        #crystalButtons {
+
+        }
+
+        #scoreMessage {
+
+        }
+
+        #score {
+        	
+        }
