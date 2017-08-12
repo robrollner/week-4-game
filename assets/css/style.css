@@ -11,21 +11,33 @@
         }
 
         #cpuRandomNumber {
-
+            background-image: url(https://raw.githubusercontent.com/robrollner/week-4-game/master/assets/images/headerImage.jpg);
+            height: 150px;
+            width: 300px;
+            text-align: center;
+            color: #f51438;
+            font-size: 75px;
+            font-weight: bolder;
         }
 
         #winLoss {
-
+            height: 150px;
+            width: 125px;
+            background-color: white;
         }
 
         #crystalButtons {
-
+                    
         }
 
         #scoreMessage {
-
+            height: 150px;
+            width: 125px;
+            background-color: green;
         }
 
         #score {
-        	
+        	height: 150px;
+            width: 125px;
+            background-color: blue;
         }
