@@ -8,32 +8,36 @@
 
         #instructions {
             background-color: #eea99b;
+            font-size: 18px;
         }
 
         #cpuRandomNumber {
             background-image: url(https://raw.githubusercontent.com/robrollner/week-4-game/master/assets/images/headerImage.jpg);
             height: 150px;
-            width: 150px;
+            width: 300px;
             text-align: center;
-            color: #f51438;
+            color: #1bf1d8;
             font-size: 75px;
             font-weight: bolder;
+            padding: 25px;
         }
 
         #winLoss {
+            padding: 12px;
             height: 150px;
             width: 125px;
             background-color: white;
         }
 
         #crystalButtons {
+            padding: 10px;
                     
         }
 
         #scoreMessage {
             height: 150px;
             width: 125px;
-            background-color: green;
+            background-color: ;
         }
 
         #score {
