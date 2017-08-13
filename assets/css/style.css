@@ -1,47 +1,68 @@
-		body {
+		/*body {
             background-image: url(https://raw.githubusercontent.com/robrollner/week-4-game/master/assets/images/background-image.jpg);
         }
-
+*/
         #Header {
-            background-color: #cfe2e7;
+            margin: 5px;
+            border: 7px ridge #1bf1d8;
+
+            /*background-color: #cfe2e7;*/
         }
 
         #instructions {
-            background-color: #eea99b;
+            margin: 5px;
+            border: 7px ridge black;
+            /*background-color: #eea99b;*/
             font-size: 18px;
         }
 
         #cpuRandomNumber {
-            background-image: url(https://raw.githubusercontent.com/robrollner/week-4-game/master/assets/images/headerImage.jpg);
+            margin: 5px;
+            /*background-image: url(https://raw.githubusercontent.com/robrollner/week-4-game/master/assets/images/headerImage.jpg);*/
             height: 150px;
             width: 300px;
             text-align: center;
             color: #1bf1d8;
             font-size: 75px;
             font-weight: bolder;
+            border: 7px ridge #1bf1d8;
             padding: 25px;
         }
 
         #winLoss {
+            color: #aaaaaa;
+            margin: 5px;
             padding: 12px;
+            border: 7px ridge #1bf1d8;
             height: 150px;
+            /*background-image: url(https://raw.githubusercontent.com/robrollner/week-4-game/master/assets/images/headerImage.jpg);*/
             width: 125px;
-            background-color: white;
         }
 
         #crystalButtons {
             padding: 10px;
+
                     
         }
 
         #scoreMessage {
-            height: 150px;
-            width: 125px;
-            background-color: ;
+            margin: 5px;
+            height: auto;
+            width: 45%;
+            /*border: 7px ridge #1bf1d8;*/
+            font-size: 25px;
+            /*background-image: url(https://raw.githubusercontent.com/robrollner/week-4-game/master/assets/images/headerImage.jpg);*/
         }
 
         #score {
+            color: #1bf1d8;
+            margin: 5px;
         	height: 150px;
-            width: 125px;
-            background-color: blue;
+            text-align: center;
+            width: 45%;            
+            font-size: 75px;
+            font-weight: bolder;
+            padding: 25px;
+            border: 7px ridge #1bf1d8;
+            /*background-image: url(https://raw.githubusercontent.com/robrollner/week-4-game/master/assets/images/headerImage.jpg);*/
         }
